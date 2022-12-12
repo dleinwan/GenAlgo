@@ -1,5 +1,6 @@
 # GenAlgo
-Genetic Algorithm for music generation
+Genetic Algorithm for music generation  
+(For any problems with running this code or inquiries about this project, contact Dani danilwander@gmail.com)
 
 ## Dependencies
 import random  
